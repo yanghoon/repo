@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ListBucketResult xmlns='http://doc.s3.amazonaws.com/2006-03-01'>
+	<Name>kubernetes-charts</Name>
+	<Prefix></Prefix>
+	<Marker></Marker>
+	<NextMarker>kapacitor-0.4.0.tgz</NextMarker>
+	<IsTruncated>true</IsTruncated>
+	<Contents>
+		<Key>acs-engine-autoscaler-0.1.0.tgz</Key>
+		<Generation>1501637633913843</Generation>
+		<MetaGeneration>1</MetaGeneration>
+		<LastModified>2017-08-02T01:33:53.600Z</LastModified>
+		<ETag>"7ba1dd9555e78f23eac07a7223cdad18"</ETag>
+		<Size>4069</Size>
+	</Contents>
+</ListBucketResult>
